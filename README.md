@@ -25,5 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 一、项目效果图
 =========
 
-1.首页
+1.首页<br>
+![]https://github.com/flexmodule/ele/blob/master/show/home1.png<br>
+2.首页（显示吸顶菜单，显示商家列表）<br>
 ![]
