@@ -26,12 +26,17 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 =========
 
 1.首页<br>
+--------------------------------
 ![](https://github.com/flexmodule/ele/blob/master/show/home1.png)<br>
 2.首页（显示吸顶菜单，显示商家列表）<br>
+-----------------------------
 ![](https://github.com/flexmodule/ele/blob/master/show/home2.png)<br>
 3.搜索页面<br>
+-------------------------
 ![](https://github.com/flexmodule/ele/blob/master/show/search.png)<br>
 4.商品列表页面<br>
+---------------------------
 ![](https://github.com/flexmodule/ele/blob/master/show/kindlist.png)<br>
 5.发现页面<br>
+----------------------
 ![](https://github.com/flexmodule/ele/blob/master/show/discover.png)<br>
